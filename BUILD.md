@@ -6,4 +6,5 @@
  typos docs --write-changes
  doctave build
  bash html5validator.sh
+ git cliff -o
 ```
